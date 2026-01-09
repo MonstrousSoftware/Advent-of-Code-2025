@@ -5,9 +5,9 @@ See https://adventofcode.com/2025
 
 Written in Java without any further libraries.
 
-Most solutions run in under a second. Day 8 takes 4 seconds.
+All solutions run in under a second.
 
-This repo does not contain the input files in order to follow AoC rules.
-Input files need to be added to the data folder as day1.txt, day2.txt, etc. The sample data
-is provided as day1a.txt, etc.
+This repo does not contain the input files, as requested by the AoC.
+Input files need to be added to the data folder as day1.txt, day2.txt, etc. 
+The sample data from the descriptions are provided as day1a.txt, etc.
 
